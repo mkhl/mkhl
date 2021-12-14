@@ -1,8 +1,8 @@
 ## GitHub! :octocat: Drop ICE!
 
-### hi there 👋
+### hi there 👋, i'm martin, or mkhl
 
-call me martin or mkhl, pronouns [he/him](https://my.pronoun.is/he/him)
+(pronouns [he/him](https://my.pronoun.is/he/him))
 
 i try to avoid github but network effects keep me here…
 some better places to find me:
