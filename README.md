@@ -8,5 +8,5 @@ i try to avoid github but network effects keep me here…
 some better places to find me:
 - 📃: [mkhl.codeberg.page](https://mkhl.codeberg.page)
 - ⌨️: [codeberg.org/mkhl](https://codeberg.org/mkhl)
-- 🐦: [@mkhl](https://twitter.com/mkhl)
+- 🐘: [@mkhl](https://social.treehouse.systems/@mkhl)
 - 🏢: [@innoq](https://github.com/innoq/)
